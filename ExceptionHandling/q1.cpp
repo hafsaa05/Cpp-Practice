@@ -6,18 +6,6 @@ and returns the result of their division. Throw an exception if the divisor is z
 
 using namespace std;
 
-#include <iostream>
-#include <stdexcept>
-#include <string>
-
-using namespace std;
-
-#include <iostream>
-#include <stdexcept>
-#include <string>
-
-using namespace std;
-
 class Base {
     int a, b;
 
